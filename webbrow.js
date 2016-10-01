@@ -1,3 +1,5 @@
+// Javascript to take input from the form and handle the submit button's click event by searching the trailer of the entered movie.
+
 var button = document.getElementById('click');
 button.addEventListener('click',function(){
 var input = document.getElementById('movies').value;
