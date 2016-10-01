@@ -13,5 +13,3 @@
 1. Clone the repository on your pc(Type $ git clone https://github.com/Mats2Nithin/Trailer-Hub in gitbash or gitshell if you have them istalled).
 2. Run entertainment.py file.
 3. You will now see the trailer-hub webpage open on your browser with my favorite movies.
-4. Note that a html page with the name trailer-hub.html has been created in the folder that can be opened to view the website without running the script.
-
